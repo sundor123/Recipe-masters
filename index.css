@@ -1,0 +1,75 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@keyframes gradientFlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes floatSlow {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes floatSlow2 {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(25px);
+  }
+}
+
+.animate-gradientFlow {
+  background-size: 300% 300%;
+  animation: gradientFlow 8s ease-in-out infinite;
+}
+.animate-floatSlow {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+.animate-floatSlow2 {
+  animation: floatSlow2 7s ease-in-out infinite;
+}
+
+/*  */
+
+@keyframes floatSlow {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes floatSlow2 {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(25px);
+  }
+}
+
+.animate-floatSlow {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+
+.animate-floatSlow2 {
+  animation: floatSlow2 7s ease-in-out infinite;
+}

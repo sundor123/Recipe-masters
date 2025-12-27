@@ -1,0 +1,96 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Spicy Basil Chicken",
+    "short_description": "A flavorful Thai-style chicken dish with basil and spices.",
+    "recipe_image": "https://plus.unsplash.com/premium_photo-1664206964048-26b7a0ebf093?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3BpY3klMjBCYXNpbCUyMENoaWNrZW58ZW58MHx8MHx8fDA%3D",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom",
+      "3 cloves garlic",
+      "1 tbsp chili paste"
+    ],
+    "preparing_time": 30,
+    "calories": 320
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Garlic Butter Shrimp",
+    "short_description": "Juicy shrimp sautéed in a rich garlic butter sauce.",
+    "recipe_image": "https://images.unsplash.com/photo-1607247098789-6a43ebeaba4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "500 g shrimp",
+      "5 cloves garlic",
+      "50 g butter",
+      "1 tbsp lemon juice",
+      "1 tbsp parsley"
+    ],
+    "preparing_time": 20,
+    "calories": 290
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Creamy Mushroom Pasta",
+    "short_description": "A creamy, savory pasta with mushrooms and cheese.",
+    "recipe_image": "https://media.istockphoto.com/id/1161197982/photo/homemade-italian-fettuccine-pasta-with-mushrooms-and-cream-sauce-traditional-italian-cuisine.jpg?s=1024x1024&w=is&k=20&c=7ZHTaJy0TK5lCMcsAeYohiRvMvG8mbkTW16ePHdR2_E=",
+    "ingredients": [
+      "300 g pasta",
+      "200 g mushroom",
+      "100 ml cream",
+      "50 g parmesan cheese",
+      "1 tbsp olive oil",
+      "1 clove garlic"
+    ],
+    "preparing_time": 25,
+    "calories": 410
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Vegetable Stir Fry",
+    "short_description": "A quick and healthy mixed vegetable stir fry.",
+    "recipe_image": "https://plus.unsplash.com/premium_photo-1664472637341-3ec829d1f4df?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VmVnZXRhYmxlJTIwU3RpciUyMEZyeXxlbnwwfHwwfHx8MA%3D%3D",
+    "ingredients": [
+      "150 g broccoli",
+      "100 g carrot",
+      "50 g bell pepper",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tsp ginger"
+    ],
+    "preparing_time": 15,
+    "calories": 220
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Grilled Salmon",
+    "short_description": "Tender grilled salmon with herbs and lemon.",
+    "recipe_image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8R3JpbGxlZCUyMFNhbG1vbnxlbnwwfHwwfHx8MA%3D%3D",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 tbsp olive oil",
+      "1 tsp black pepper",
+      "1 tbsp lemon juice",
+      "1 tsp dried thyme"
+    ],
+    "preparing_time": 20,
+    "calories": 350
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Beef Tacos",
+    "short_description": "Mexican-style tacos filled with seasoned beef.",
+    "recipe_image": "https://images.unsplash.com/photo-1640983743761-4f0e0204bc58?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVlZiUyMFRhY29zfGVufDB8fDB8fHww",
+    "ingredients": [
+      "300 g ground beef",
+      "6 taco shells",
+      "50 g lettuce",
+      "50 g cheddar cheese",
+      "2 tbsp taco seasoning",
+      "1 tomato, chopped"
+    ],
+    "preparing_time": 30,
+    "calories": 430
+  }
+]
